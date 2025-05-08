@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nidia Rocio 
 - 👀 I’m interested in empathizing with users to be able to solve problems.
-- 🌱 I’m currently learning about Design Systems, documenting, and UX writing.
+- 🌱 I’m passionate about Design Systems.
 - 💞️ I’m looking to collaborate remotely on multidisciplinary teams.
 - 📫 Email me at NR.UXdesigner[at]gmail.com.
